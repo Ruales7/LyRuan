@@ -1,0 +1,8 @@
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\bin\Debug\projetoLR1.exe.config
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\bin\Debug\projetoLR1.exe
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\bin\Debug\projetoLR1.pdb
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\obj\Debug\projetoLR1.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\obj\Debug\projetoLR1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\obj\Debug\projetoLR1.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\obj\Debug\projetoLR1.exe
+C:\Users\2jdmtec\Desktop\LY-RUAN\projetoLR1\projetoLR1\obj\Debug\projetoLR1.pdb
