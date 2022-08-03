@@ -39,6 +39,26 @@ namespace projetoLR1
             get { return this.nome; } 
             set { this.nome = value; }
         }
+        
+        public int Idade 
+        {   
+            get { return idade; } 
+            set { idade = value; }
+        }
+        
+        public double Altura
+        {
+            get { return altura; }
+            set { altura = value; }
+        }
+
+        public string Sexo
+        {
+            get { return sexo; }
+            set { sexo = value.ToUpper() == "M" ? "MASCULINO" : "FEMININO"; }
+        }
+
+
         //Método que retorna um string contendo as informações da pessoa
         public override string ToString()
         {
